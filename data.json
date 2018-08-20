@@ -483,10 +483,13 @@
   },
   {
     "name": "Haskell",
-    "community": "",
+    "community": {
+      "name": "RuHaskell",
+      "link": "https://ruhaskell.org/"
+    },
     "description": "Haskell Chat",
     "links": {
-      "gitter": "https://gitter.im/ruhaskell/forall"
+      "gitter, telegram": "https://ruhaskell.org/links.html#discussion"
     },
     "comments": ""
   },
